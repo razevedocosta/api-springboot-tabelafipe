@@ -1,6 +1,7 @@
 # api-springboot-tabelafipe
 
 **Descrição:** API Rest desenvolvida durante o curso de Spring Boot da Alura
+<br>
 **Objetivo:** Criar uma API para consultar os dados de veículos a partir do endereço disponibilizado em: https://deividfortuna.github.io/fipe/
 
 # Passos realizados para a criação do projeto
